@@ -2,3 +2,5 @@
 board = "Board"
 
 board = ["", "", ""]
+
+board = ["0"]
