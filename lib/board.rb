@@ -1,2 +1,2 @@
 # Define the variable board below.
-Board = "Shut"
+Board = 9
