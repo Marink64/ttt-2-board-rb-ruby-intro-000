@@ -3,4 +3,4 @@ board = "Board"
 
 board = ["", "", "", "", "", "", "", "", ""]
 
-board = ["0"]
+board[0]
